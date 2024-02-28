@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    max-height: 223px;
+    display: flex;
+    justify-content: center;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    padding: 16px;
+}
+
+section {
+    display: grid;
+    place-items: center;
+}
+
+.shapes {
+    width: 1030px;
+    height: 711px;
+    margin: 0 16px;
+    margin-bottom: 16px;
+    display: flex;
+}
+
+.shape1 {
+    background-color: #FF6666;
+    width: 103px;
+    height: 434px;
+    border-radius: 100px;
+}
+
+.shape2 {
+    background-color: #FFAC4E;
+    width: 103px;
+    height: 605px;
+    border-radius: 100px;
+    align-self: flex-end;
+}
+
+.shape3 {
+    background-color: #FFE04D;
+    width: 103px;
+    height: 711px;
+    border-radius: 100px;
+}
+
+.shape4 {
+    background-color: #E3FF30;
+    width: 103px;
+    height: 458px;
+    border-radius: 100px;
+}
+
+.shape5 {
+    background-color: #B7FF43;
+    width: 103px;
+    height: 591px;
+    border-radius: 100px;
+    align-self: flex-end;
+}
+
+.shape6 {
+    background-color: #3BFFAD;
+    width: 103px;
+    height: 534px;
+    border-radius: 100px;
+}
+
+.shape7 {
+    background-color: #58F4FF;
+    width: 103px;
+    height: 690px;
+    border-radius: 100px;
+}
+
+.shape8 {
+    background-color: #459CFF;
+    width: 103px;
+    height: 554px;
+    border-radius: 100px;
+    align-self: flex-end;
+}
+
+.shape9 {
+    background-color: #864EFF;
+    width: 103px;
+    height: 637px;
+    border-radius: 100px;
+}
+
+.shape10 {
+    background-color: #CA37FF;
+    width: 103px;
+    height: 414px;
+    border-radius: 100px;
+    align-self: flex-end;
+}
